@@ -14,9 +14,10 @@ This is simple full-stack todo application. It has a React frontend and a Node.j
 Please install Node.js.
 
 1. Start the Backend
+
 Open a terminal, go to the backend folder, install the packages, and start the server:
 
-Use this commands: 
+Use this commands to run:
 
 cd backend
 npm install
@@ -27,7 +28,7 @@ The backend server will run on localhost.
 2. Start the Frontend
 Open a second terminal, go to the frontend folder, install the packages, and start the dev server:
 
-Use this command: 
+Use this command to run:
 
 cd frontend
 npm install
